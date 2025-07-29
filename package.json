@@ -8,7 +8,7 @@
   "scripts": {
     "format": "prettier --write '**/*.{js,css,html,md,njk,liquid}'",
     "build": "NODE_ENV=production npx @11ty/eleventy",
-    "deploy": "npm run build && xmit jkrebian.madethis.site"
+    "deploy": "npm run build && xmit jkrebian.madethis.site@215"
   },
   "author": {
     "name": "John Krebian",
