@@ -1,0 +1,16 @@
+{
+  "media": {
+    "root": "_site",
+    "public": "_site"
+  },
+  "content": {
+    "root": "_site"
+  },
+  "themeConfig": [
+    ".circleci/config.yml",
+    ".github",
+    ".github/workflows/config.yml"
+  ],
+  "arrangement": [],
+  "showCommitModal": false
+}
